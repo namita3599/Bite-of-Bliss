@@ -7,4 +7,6 @@ Click on a cookie and get a random message to brighten your day. Choose from thr
 - 🌟 Advice – small tips to make life easier  
 - 🔍 Reality Checks – little reminders of everyday truths  
 
+Have this cute experience on https://bite-of-bliss.vercel.app/
+
 Built with React, Vite, and MUI for a cute, colorful, and interactive experience.
