@@ -1,6 +1,6 @@
 import React from "react";
 import Cookie from "./Cookie";
-import cookieImg from "../assets/cookie.svg"; // single cookie image
+import cookieImg from "../assets/Cookie.svg"; // single cookie image
 
 export default function CookieSelector({ onSelect }) {
   return (
